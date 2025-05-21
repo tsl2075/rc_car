@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:111:6:MX_FREERTOS_Init	80	static
+../Core/Src/freertos.c:179:6:StartUltrasonicTask	32	static
+../Core/Src/freertos.c:207:6:StartMotorTask	24	static
+../Core/Src/freertos.c:312:6:StartLcdTask	56	static
+../Core/Src/freertos.c:362:6:StartControlTask	16	static

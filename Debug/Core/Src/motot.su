@@ -1,0 +1,3 @@
+../Core/Src/motot.c:7:6:Motor_Init	8	static
+../Core/Src/motot.c:16:6:Set_Direction	16	static
+../Core/Src/motot.c:75:6:Set_Speed	24	static

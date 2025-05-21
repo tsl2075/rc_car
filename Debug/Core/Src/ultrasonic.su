@@ -1,0 +1,3 @@
+../Core/Src/ultrasonic.c:18:9:GetDistance	16	static
+../Core/Src/ultrasonic.c:24:6:TriggerSensor	16	static
+../Core/Src/ultrasonic.c:43:6:HAL_TIM_IC_CaptureCallback	24	static
