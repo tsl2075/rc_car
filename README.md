@@ -1,4 +1,4 @@
-## 프로젝트 개요
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/f1703e65-8840-495c-9051-33235be3a9bd" /> 프로젝트 개요
 장애물을 회피하면서 주행하도록 만든 RC카 프로젝트입니다.
 
 
@@ -8,7 +8,7 @@
 - 개발 언어 : C
 
 
-## 목표
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/b37ebdf0-b93d-4a64-8740-0d5b58d975f7" /> 목표
 - 초음파센서와 블루투스UART 통신의 DMA를 활용하여 실시간 값을 이용해서 
   다양한 회피 알고리즘 구현
 - Free RTOS 기반의 실시간 제어 구조를 통해 센서,모터 등을 TASK 단위로 분리하여
@@ -17,7 +17,7 @@
 ## 주요 기술
 - Free RTOS
 
-## Board
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/d2cb68cc-4a4d-4a2b-8ab9-24a5550d5e3f" /> Board
 - STM32F411RE
 
 ## 세부설명
