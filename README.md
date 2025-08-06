@@ -37,6 +37,8 @@ ex) 차이가 4cm이하일 경우 더 좁은 쪽으로 회피 해서 직각 코�
 <img width="239" height="310" alt="Image" src="https://github.com/user-attachments/assets/f8529b95-534c-4d95-a262-d12308d266f8" />
 
 
+### Youtube 링크
+https://www.youtube.com/watch?v=M6ztx0a8rrA
 
 
 ### &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;동작영상   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | 
